@@ -1,0 +1,1 @@
+Ky fajll do te baretet ne GitHub Server, sepse nuk e kemi vendos ne .gitignore fajll.
