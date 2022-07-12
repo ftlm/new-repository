@@ -5,3 +5,4 @@
 ## Push:  Me kete komand e vendos ate pjese te kodit ne GitHub Server.
 
 Keto ishin disa prej komandave te Git-it te cilat e lehtesojn shume punen tuaj gjate shkruarjes se kodit tuaj.
+Kete text sapo e shkruajta ne GitHub Server, dhe pastaj permes komandes Poll e mora ne kompjuterin time lokal.
